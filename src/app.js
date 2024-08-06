@@ -1,3 +1,4 @@
+// Functional Programming : stateless and imutable
 const dictionary = ['earth', 'plane', 'crane', 'audio', 'house'];
 const state = {
     secret: dictionary[Math.floor(Math.random() * dictionary.length)],
